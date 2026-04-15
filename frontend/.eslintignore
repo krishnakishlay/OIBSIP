@@ -1,0 +1,8 @@
+# ESLint Ignore File
+
+# Ignore common build directories
+build/
+dist/
+
+# Ignore Node modules
+node_modules/
