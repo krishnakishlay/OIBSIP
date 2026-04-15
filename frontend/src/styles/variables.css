@@ -1,0 +1,22 @@
+:root {
+  --black: #fff9f3;
+  --white: #2d2622;
+  --cream: #fffefb;
+  --fire: #d95a32;
+  --amber: #eba43a;
+  --char: #fff1e2;
+  --muted: #7c6960;
+  --border: rgba(90, 58, 40, 0.18);
+  --card-bg: #fffef8;
+  --green: #2a7a4b;
+
+  --font-display: "Bebas Neue", cursive;
+  --font-body: "DM Sans", sans-serif;
+  --font-italic: "Playfair Display", serif;
+
+  --nav-height: 68px;
+  --radius-sm: 4px;
+  --radius-md: 8px;
+  --radius-lg: 12px;
+  --transition: 0.25s ease;
+}
